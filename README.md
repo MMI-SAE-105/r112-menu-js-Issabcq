@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom :BACQ 
+- prénom : Issa
+- URL Netlify : https://verdant-bavarois-2b2ece.netlify.app
 
 # Travail
 
